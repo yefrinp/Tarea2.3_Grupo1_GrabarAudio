@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AudioRecorder.Views.AudioRecorderTest"
+             Title="Grabar audio">
+    <VerticalStackLayout VerticalOptions="Center" Spacing="20" Padding="50,10,50,10">
+        <Frame>
+            <Image Source="icon_music.svg"/>
+        </Frame>
+        <Button Text="Grabar Audio" Clicked="Start" x:Name="btnStart"/>
+        <Button Text="Detener grabacion" Clicked="Stop" IsEnabled="False" x:Name="btnStop"/>
+        <Button Text="Reproducir grabacion" Clicked="play" IsEnabled="False"  x:Name="btnPlay"/>
+
+        <Frame CornerRadius="10" 
+             Padding="5" 
+             BorderColor="Gray">
+            <StackLayout>
+                <Label Text="Descripcion" FontAttributes="Bold"/>
+                <Entry x:Name="txtDescripcion" VerticalOptions="FillAndExpand" Keyboard="Text" TextColor="Black"/>
+            </StackLayout>
+        </Frame>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="10">
+            <Button Text="Guardar audio" Clicked="guardar" x:Name="btnGuardar" HorizontalOptions="FillAndExpand" IsEnabled="False"/>
+            <Button Text="Lista de audios" Clicked="lista" x:Name="btnLista" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>

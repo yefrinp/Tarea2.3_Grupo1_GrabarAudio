@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\views\\pageaudiorecorderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:views\\pageaudiorecorderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\views\\pageaudiorecorderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:views\\pageaudiorecorderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\views\\audiorecordertest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:views\\audiorecordertest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\controllers\\dbproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:controllers\\dbproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\views\\audiorecordertest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:views\\audiorecordertest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\models\\audios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:models\\audios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|c:\\users\\yefrinbenignoamayapa\\documents\\uth\\audiorecorder\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59651F8E-154D-42FF-A886-E1CC72B385A2}|AudioRecorder.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:37:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioRecorderTest.xaml",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\AudioRecorderTest.xaml",
+              "RelativeDocumentMoniker": "Views\\AudioRecorderTest.xaml",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\AudioRecorderTest.xaml",
+              "RelativeToolTip": "Views\\AudioRecorderTest.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T22:03:19.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioRecorderTest.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\AudioRecorderTest.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AudioRecorderTest.xaml.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\AudioRecorderTest.xaml.cs",
+              "RelativeToolTip": "Views\\AudioRecorderTest.xaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAowGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:02:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageAudioRecorderList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\PageAudioRecorderList.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PageAudioRecorderList.xaml.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\PageAudioRecorderList.xaml.cs",
+              "RelativeToolTip": "Views\\PageAudioRecorderList.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:02:58.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageAudioRecorderList.xaml",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\PageAudioRecorderList.xaml",
+              "RelativeDocumentMoniker": "Views\\PageAudioRecorderList.xaml",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Views\\PageAudioRecorderList.xaml",
+              "RelativeToolTip": "Views\\PageAudioRecorderList.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T22:02:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Audios.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Models\\Audios.cs",
+              "RelativeDocumentMoniker": "Models\\Audios.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Models\\Audios.cs",
+              "RelativeToolTip": "Models\\Audios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:31:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBProc.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Controllers\\DBProc.cs",
+              "RelativeDocumentMoniker": "Controllers\\DBProc.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\Controllers\\DBProc.cs",
+              "RelativeToolTip": "Controllers\\DBProc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:31:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:37:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:32:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\yefrinbenignoamayapa\\Documents\\UTH\\AudioRecorder\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T22:02:58.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

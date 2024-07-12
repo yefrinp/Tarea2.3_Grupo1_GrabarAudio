@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AudioRecorder.Views.PageAudioRecorderList"
+             Title="Lista de audios grabados"
+             Background="#00001c">
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+            <CarouselView x:Name="carouselView" CurrentItemChanged="carouselView_CurrentItemChanged" Loop="False">
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame HorizontalOptions="FillAndExpand" Background="#00001c" VerticalOptions="CenterAndExpand" BorderColor="#00001c">
+                            <StackLayout>
+                                <Image Source="icon_music.svg"/>
+                                <Label Text="{Binding descripcion}" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" FontSize="Large" Margin="20, 0, 0, 0" TextColor="White" />
+
+                                <Label Text="{Binding fecha}" FontAttributes="Bold" FontSize="Title" VerticalTextAlignment="Center" TextColor="AliceBlue" HorizontalTextAlignment="Center" Margin="0,20,0,20"/>
+                            </StackLayout>
+                        </Frame>
+
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+            <StackLayout HorizontalOptions="FillAndExpand">
+                <Image Source="play.svg" HeightRequest="64" x:Name="btnPlay">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="onPlay" />
+                    </Image.GestureRecognizers>
+                </Image>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+
+</ContentPage>
